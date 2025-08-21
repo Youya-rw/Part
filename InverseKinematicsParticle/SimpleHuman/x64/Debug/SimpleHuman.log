@@ -1,0 +1,245 @@
+﻿  InverseKinematicsParticleApp.cpp
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(762,21): warning C4244: '引数': 'double' から 'T' への変換です。データが失われる可能性があります。
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(762,21): warning C4244:         with
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(762,21): warning C4244:         [
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(762,21): warning C4244:             T=float
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(762,21): warning C4244:         ]
+  (ソース ファイル 'InverseKinematicsParticleApp.cpp' をコンパイルしています)
+      C:\Users\youya\研究室\vecmathC++\Matrix3.h(762,21):
+      テンプレートインスタンス化コンテキスト (最初に最も古いもの) は
+          C:\Users\youya\研究室\InverseKinematicsParticle\SimpleHuman.h(113,12):
+          コンパイル対象の クラス テンプレート インスタンス化 'Matrix3<float>' のリファレンスを確認してください
+          C:\Users\youya\研究室\vecmathC++\Matrix3.h(50,22):
+          クラス テンプレート メンバー関数 'Matrix3<float>::Matrix3(void)' のコンパイル中
+              C:\Users\youya\研究室\InverseKinematicsParticle\InverseKinematicsParticleApp.cpp(395,12):
+              'ComputePostureFromJointPoints' の 'Matrix3<float>::Matrix3' への最初の参照を参照してください
+          C:\Users\youya\研究室\vecmathC++\Matrix3.h(735,39):
+          クラス テンプレート メンバー関数 'T Matrix3<T>::SVD(Matrix3<T> *) const' のコンパイル中
+          with
+          [
+              T=float
+          ]
+              C:\Users\youya\研究室\vecmathC++\Matrix3_.h(576,12):
+              'Matrix3<float>::normalize' の 'Matrix3<float>::SVD' への最初の参照を参照してください
+              C:\Users\youya\研究室\InverseKinematicsParticle\InverseKinematicsParticleApp.cpp(716,15):
+              'ComputeTripleVectorRotation' の 'Matrix3<float>::normalize' への最初の参照を参照してください
+  
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(768,23): warning C4244: '=': 'double' から 'T' への変換です。データが失われる可能性があります。
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(768,23): warning C4244:         with
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(768,23): warning C4244:         [
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(768,23): warning C4244:             T=float
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(768,23): warning C4244:         ]
+  (ソース ファイル 'InverseKinematicsParticleApp.cpp' をコンパイルしています)
+  
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(769,23): warning C4244: '=': 'double' から 'T' への変換です。データが失われる可能性があります。
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(769,23): warning C4244:         with
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(769,23): warning C4244:         [
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(769,23): warning C4244:             T=float
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(769,23): warning C4244:         ]
+  (ソース ファイル 'InverseKinematicsParticleApp.cpp' をコンパイルしています)
+  
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(770,23): warning C4244: '=': 'double' から 'T' への変換です。データが失われる可能性があります。
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(770,23): warning C4244:         with
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(770,23): warning C4244:         [
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(770,23): warning C4244:             T=float
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(770,23): warning C4244:         ]
+  (ソース ファイル 'InverseKinematicsParticleApp.cpp' をコンパイルしています)
+  
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(773,23): warning C4244: '=': 'double' から 'T' への変換です。データが失われる可能性があります。
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(773,23): warning C4244:         with
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(773,23): warning C4244:         [
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(773,23): warning C4244:             T=float
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(773,23): warning C4244:         ]
+  (ソース ファイル 'InverseKinematicsParticleApp.cpp' をコンパイルしています)
+  
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(774,23): warning C4244: '=': 'double' から 'T' への変換です。データが失われる可能性があります。
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(774,23): warning C4244:         with
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(774,23): warning C4244:         [
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(774,23): warning C4244:             T=float
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(774,23): warning C4244:         ]
+  (ソース ファイル 'InverseKinematicsParticleApp.cpp' をコンパイルしています)
+  
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(775,23): warning C4244: '=': 'double' から 'T' への変換です。データが失われる可能性があります。
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(775,23): warning C4244:         with
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(775,23): warning C4244:         [
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(775,23): warning C4244:             T=float
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(775,23): warning C4244:         ]
+  (ソース ファイル 'InverseKinematicsParticleApp.cpp' をコンパイルしています)
+  
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(778,23): warning C4244: '=': 'double' から 'T' への変換です。データが失われる可能性があります。
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(778,23): warning C4244:         with
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(778,23): warning C4244:         [
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(778,23): warning C4244:             T=float
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(778,23): warning C4244:         ]
+  (ソース ファイル 'InverseKinematicsParticleApp.cpp' をコンパイルしています)
+  
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(779,23): warning C4244: '=': 'double' から 'T' への変換です。データが失われる可能性があります。
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(779,23): warning C4244:         with
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(779,23): warning C4244:         [
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(779,23): warning C4244:             T=float
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(779,23): warning C4244:         ]
+  (ソース ファイル 'InverseKinematicsParticleApp.cpp' をコンパイルしています)
+  
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(780,23): warning C4244: '=': 'double' から 'T' への変換です。データが失われる可能性があります。
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(780,23): warning C4244:         with
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(780,23): warning C4244:         [
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(780,23): warning C4244:             T=float
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(780,23): warning C4244:         ]
+  (ソース ファイル 'InverseKinematicsParticleApp.cpp' をコンパイルしています)
+  
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(790,9): warning C4244: '初期化中': 'double' から 'T' への変換です。データが失われる可能性があります。
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(790,9): warning C4244:         with
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(790,9): warning C4244:         [
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(790,9): warning C4244:             T=float
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(790,9): warning C4244:         ]
+  (ソース ファイル 'InverseKinematicsParticleApp.cpp' をコンパイルしています)
+      C:\Users\youya\研究室\vecmathC++\Matrix3.h(790,9):
+      テンプレートインスタンス化コンテキスト (最初に最も古いもの) は
+          C:\Users\youya\研究室\vecmathC++\Matrix3.h(788,50):
+          クラス テンプレート メンバー関数 'void Matrix3<float>::setFromQuat(T,T,T,T)' のコンパイル中
+          with
+          [
+              T=float
+          ]
+              C:\Users\youya\研究室\vecmathC++\Matrix3.h(107,16):
+              'Matrix3<float>::set' の 'Matrix3<float>::setFromQuat' への最初の参照を参照してください
+              C:\Users\youya\研究室\InverseKinematicsParticle\InverseKinematicsParticleApp.cpp(763,9):
+              'ComputeMultipleVectorRotation' の 'Matrix3<float>::set' への最初の参照を参照してください
+  
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(797,15): warning C4244: '=': 'double' から 'T' への変換です。データが失われる可能性があります。
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(797,15): warning C4244:         with
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(797,15): warning C4244:         [
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(797,15): warning C4244:             T=float
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(797,15): warning C4244:         ]
+  (ソース ファイル 'InverseKinematicsParticleApp.cpp' をコンパイルしています)
+  
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(798,38): warning C4244: '=': 'double' から 'T' への変換です。データが失われる可能性があります。
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(798,38): warning C4244:         with
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(798,38): warning C4244:         [
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(798,38): warning C4244:             T=float
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(798,38): warning C4244:         ]
+  (ソース ファイル 'InverseKinematicsParticleApp.cpp' をコンパイルしています)
+  
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(799,61): warning C4244: '=': 'double' から 'T' への変換です。データが失われる可能性があります。
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(799,61): warning C4244:         with
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(799,61): warning C4244:         [
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(799,61): warning C4244:             T=float
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(799,61): warning C4244:         ]
+  (ソース ファイル 'InverseKinematicsParticleApp.cpp' をコンパイルしています)
+  
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(814,11): warning C4244: '初期化中': 'double' から 'T' への変換です。データが失われる可能性があります。
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(814,11): warning C4244:         with
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(814,11): warning C4244:         [
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(814,11): warning C4244:             T=float
+C:\Users\youya\研究室\vecmathC++\Matrix3.h(814,11): warning C4244:         ]
+  (ソース ファイル 'InverseKinematicsParticleApp.cpp' をコンパイルしています)
+      C:\Users\youya\研究室\vecmathC++\Matrix3.h(814,11):
+      テンプレートインスタンス化コンテキスト (最初に最も古いもの) は
+          C:\Users\youya\研究室\vecmathC++\Matrix3.h(803,59):
+          クラス テンプレート メンバー関数 'void Matrix3<float>::setFromAxisAngle(T,T,T,T)' のコンパイル中
+          with
+          [
+              T=float
+          ]
+              C:\Users\youya\研究室\vecmathC++\Matrix3.h(112,21):
+              'Matrix3<float>::set' の 'Matrix3<float>::setFromAxisAngle' への最初の参照を参照してください
+              C:\Users\youya\研究室\InverseKinematicsParticle\InverseKinematicsParticleApp.cpp(639,9):
+              'ComputeVectorRotation' の 'Matrix3<float>::set' への最初の参照を参照してください
+  
+C:\Users\youya\研究室\vecmathC++\Quat4.h(167,29): warning C4244: '引数': 'double' から 'T' への変換です。データが失われる可能性があります。
+C:\Users\youya\研究室\vecmathC++\Quat4.h(167,29): warning C4244:         with
+C:\Users\youya\研究室\vecmathC++\Quat4.h(167,29): warning C4244:         [
+C:\Users\youya\研究室\vecmathC++\Quat4.h(167,29): warning C4244:             T=float
+C:\Users\youya\研究室\vecmathC++\Quat4.h(167,29): warning C4244:         ]
+  (ソース ファイル 'InverseKinematicsParticleApp.cpp' をコンパイルしています)
+      C:\Users\youya\研究室\vecmathC++\Quat4.h(167,29):
+      テンプレートインスタンス化コンテキスト (最初に最も古いもの) は
+          C:\Users\youya\研究室\vecmathC++\Quat4.h(89,42):
+          クラス テンプレート メンバー関数 'void Quat4<float>::set(const Matrix3<float> &)' のコンパイル中
+              C:\Users\youya\研究室\InverseKinematicsParticle\InverseKinematicsParticleApp.cpp(742,8):
+              'ComputeMultipleVectorRotation' の 'Quat4<float>::set' への最初の参照を参照してください
+          C:\Users\youya\研究室\vecmathC++\Quat4.h(160,48):
+          クラス テンプレート メンバー関数 'void Quat4<float>::setFromMat(T,T,T,T,T,T,T,T,T)' のコンパイル中
+          with
+          [
+              T=float
+          ]
+  
+C:\Users\youya\研究室\vecmathC++\Quat4.h(168,11): warning C4244: '=': 'double' から 'T' への変換です。データが失われる可能性があります。
+C:\Users\youya\研究室\vecmathC++\Quat4.h(168,11): warning C4244:         with
+C:\Users\youya\研究室\vecmathC++\Quat4.h(168,11): warning C4244:         [
+C:\Users\youya\研究室\vecmathC++\Quat4.h(168,11): warning C4244:             T=float
+C:\Users\youya\研究室\vecmathC++\Quat4.h(168,11): warning C4244:         ]
+  (ソース ファイル 'InverseKinematicsParticleApp.cpp' をコンパイルしています)
+  
+C:\Users\youya\研究室\vecmathC++\Quat4.h(169,13): warning C4244: '=': 'double' から 'T' への変換です。データが失われる可能性があります。
+C:\Users\youya\研究室\vecmathC++\Quat4.h(169,13): warning C4244:         with
+C:\Users\youya\研究室\vecmathC++\Quat4.h(169,13): warning C4244:         [
+C:\Users\youya\研究室\vecmathC++\Quat4.h(169,13): warning C4244:             T=float
+C:\Users\youya\研究室\vecmathC++\Quat4.h(169,13): warning C4244:         ]
+  (ソース ファイル 'InverseKinematicsParticleApp.cpp' をコンパイルしています)
+  
+C:\Users\youya\研究室\vecmathC++\Quat4.h(176,51): warning C4244: '引数': 'double' から 'T' への変換です。データが失われる可能性があります。
+C:\Users\youya\研究室\vecmathC++\Quat4.h(176,51): warning C4244:         with
+C:\Users\youya\研究室\vecmathC++\Quat4.h(176,51): warning C4244:         [
+C:\Users\youya\研究室\vecmathC++\Quat4.h(176,51): warning C4244:             T=float
+C:\Users\youya\研究室\vecmathC++\Quat4.h(176,51): warning C4244:         ]
+  (ソース ファイル 'InverseKinematicsParticleApp.cpp' をコンパイルしています)
+  
+C:\Users\youya\研究室\vecmathC++\Quat4.h(177,18): warning C4244: '=': 'double' から 'T' への変換です。データが失われる可能性があります。
+C:\Users\youya\研究室\vecmathC++\Quat4.h(177,18): warning C4244:         with
+C:\Users\youya\研究室\vecmathC++\Quat4.h(177,18): warning C4244:         [
+C:\Users\youya\研究室\vecmathC++\Quat4.h(177,18): warning C4244:             T=float
+C:\Users\youya\研究室\vecmathC++\Quat4.h(177,18): warning C4244:         ]
+  (ソース ファイル 'InverseKinematicsParticleApp.cpp' をコンパイルしています)
+  
+C:\Users\youya\研究室\vecmathC++\Quat4.h(178,20): warning C4244: '=': 'double' から 'T' への変換です。データが失われる可能性があります。
+C:\Users\youya\研究室\vecmathC++\Quat4.h(178,20): warning C4244:         with
+C:\Users\youya\研究室\vecmathC++\Quat4.h(178,20): warning C4244:         [
+C:\Users\youya\研究室\vecmathC++\Quat4.h(178,20): warning C4244:             T=float
+C:\Users\youya\研究室\vecmathC++\Quat4.h(178,20): warning C4244:         ]
+  (ソース ファイル 'InverseKinematicsParticleApp.cpp' をコンパイルしています)
+  
+C:\Users\youya\研究室\vecmathC++\Quat4.h(183,51): warning C4244: '引数': 'double' から 'T' への変換です。データが失われる可能性があります。
+C:\Users\youya\研究室\vecmathC++\Quat4.h(183,51): warning C4244:         with
+C:\Users\youya\研究室\vecmathC++\Quat4.h(183,51): warning C4244:         [
+C:\Users\youya\研究室\vecmathC++\Quat4.h(183,51): warning C4244:             T=float
+C:\Users\youya\研究室\vecmathC++\Quat4.h(183,51): warning C4244:         ]
+  (ソース ファイル 'InverseKinematicsParticleApp.cpp' をコンパイルしています)
+  
+C:\Users\youya\研究室\vecmathC++\Quat4.h(184,18): warning C4244: '=': 'double' から 'T' への変換です。データが失われる可能性があります。
+C:\Users\youya\研究室\vecmathC++\Quat4.h(184,18): warning C4244:         with
+C:\Users\youya\研究室\vecmathC++\Quat4.h(184,18): warning C4244:         [
+C:\Users\youya\研究室\vecmathC++\Quat4.h(184,18): warning C4244:             T=float
+C:\Users\youya\研究室\vecmathC++\Quat4.h(184,18): warning C4244:         ]
+  (ソース ファイル 'InverseKinematicsParticleApp.cpp' をコンパイルしています)
+  
+C:\Users\youya\研究室\vecmathC++\Quat4.h(185,20): warning C4244: '=': 'double' から 'T' への変換です。データが失われる可能性があります。
+C:\Users\youya\研究室\vecmathC++\Quat4.h(185,20): warning C4244:         with
+C:\Users\youya\研究室\vecmathC++\Quat4.h(185,20): warning C4244:         [
+C:\Users\youya\研究室\vecmathC++\Quat4.h(185,20): warning C4244:             T=float
+C:\Users\youya\研究室\vecmathC++\Quat4.h(185,20): warning C4244:         ]
+  (ソース ファイル 'InverseKinematicsParticleApp.cpp' をコンパイルしています)
+  
+C:\Users\youya\研究室\vecmathC++\Quat4.h(190,51): warning C4244: '引数': 'double' から 'T' への変換です。データが失われる可能性があります。
+C:\Users\youya\研究室\vecmathC++\Quat4.h(190,51): warning C4244:         with
+C:\Users\youya\研究室\vecmathC++\Quat4.h(190,51): warning C4244:         [
+C:\Users\youya\研究室\vecmathC++\Quat4.h(190,51): warning C4244:             T=float
+C:\Users\youya\研究室\vecmathC++\Quat4.h(190,51): warning C4244:         ]
+  (ソース ファイル 'InverseKinematicsParticleApp.cpp' をコンパイルしています)
+  
+C:\Users\youya\研究室\vecmathC++\Quat4.h(191,18): warning C4244: '=': 'double' から 'T' への変換です。データが失われる可能性があります。
+C:\Users\youya\研究室\vecmathC++\Quat4.h(191,18): warning C4244:         with
+C:\Users\youya\研究室\vecmathC++\Quat4.h(191,18): warning C4244:         [
+C:\Users\youya\研究室\vecmathC++\Quat4.h(191,18): warning C4244:             T=float
+C:\Users\youya\研究室\vecmathC++\Quat4.h(191,18): warning C4244:         ]
+  (ソース ファイル 'InverseKinematicsParticleApp.cpp' をコンパイルしています)
+  
+C:\Users\youya\研究室\vecmathC++\Quat4.h(192,20): warning C4244: '=': 'double' から 'T' への変換です。データが失われる可能性があります。
+C:\Users\youya\研究室\vecmathC++\Quat4.h(192,20): warning C4244:         with
+C:\Users\youya\研究室\vecmathC++\Quat4.h(192,20): warning C4244:         [
+C:\Users\youya\研究室\vecmathC++\Quat4.h(192,20): warning C4244:             T=float
+C:\Users\youya\研究室\vecmathC++\Quat4.h(192,20): warning C4244:         ]
+  (ソース ファイル 'InverseKinematicsParticleApp.cpp' をコンパイルしています)
+  
+  SimpleHuman.vcxproj -> C:\Users\youya\研究室\InverseKinematicsParticle\bin\InverseKinematicsParticle.exe
